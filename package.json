@@ -1,0 +1,29 @@
+{
+  "name": "convostart",
+  "version": "1.0.0",
+  "description": "discord bot to start and enforce conversations within a server",
+  "main": "main.js",
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "discord.js": "^12.5.1",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxtinion/convoStart.git"
+  },
+  "author": "Maxim Ausloos (Jelly Time)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxtinion/convoStart/issues"
+  },
+  "homepage": "https://github.com/maxtinion/convoStart#readme"
+}
