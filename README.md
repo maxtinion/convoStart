@@ -1,5 +1,6 @@
 # ConvoStart
-a discord bot that starts and reinforces conversations within a server
+a discord bot that starts and reinforces conversations within a server  
+commercial [here](https://www.youtube.com/watch?v=6A32Cu7mEus)
 
 # Prerequisites
 1. Node.js
